@@ -38,21 +38,12 @@ L'univers de Mario s'est progressivement enrichi au fil des jeux, avec l'apparit
 -----
 
 
- ![]()
- ![](image.png)
- ![](image.png)
- ![](image.png)
- ![](image.png)
- ![](image.png)
-
-
 
 
 ### Vidéo des personnages du monde de Mario 🍧
 
 
 
-https://www.youtube.com/watch?v=1GiexIP3Y6A
 
 [![video des personnages](https://data.topquizz.com/distant/quizz/big/5/4/7/8/98745_94a5479004.jpg)](https://www.youtube.com/watch?v=1GiexIP3Y6A
 )
@@ -107,13 +98,15 @@ Que ce soit par son graphisme ou son gameplay, la saga Mario a su faire évoluer
 
 ## License
 
-copyright les bads girls
+copyright 
+
+## Les bads girls
 
 ##
-==Léa
+Léa
 Angélique
 Aîcha
-Souad==
+Souad
 
 
 
