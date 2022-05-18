@@ -52,7 +52,7 @@ L'univers de Mario s'est progressivement enrichi au fil des jeux, avec l'apparit
 -----
 ## L'univers étendu de monde de Mario 🧠
 
-==Aux origines de Mario, superstar de la Nintendo==
+## Aux origines de Mario, superstar de la Nintendo
 
 ![image de mario et luigi](https://www.iim.fr/ecole-web/wp-content/uploads/2018/01/UNE-mario-nintendo-luigi-jeu.jpeg)
 
