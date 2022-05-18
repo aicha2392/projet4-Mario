@@ -17,7 +17,7 @@ L'univers de Mario s'est progressivement enrichi au fil des jeux, avec l'apparit
 - La princesse Peach
 - Yoshi
 - Toad
-io, son grand rival et Waluigi, le compère de Wario. Sa voix est doublée par Charles Martinet.
+
 
 
 
