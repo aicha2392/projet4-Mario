@@ -37,7 +37,6 @@ L'univers de Mario s'est progressivement enrichi au fil des jeux, avec l'apparit
 
 -----
 
-Ici ce qui suit [!Lien](https://example.com/ "titre de lien optionnel")(https://example.com/ "titre de lien optionnel").
 
  ![]()
  ![](image.png)
@@ -55,7 +54,7 @@ Ici ce qui suit [!Lien](https://example.com/ "titre de lien optionnel")(https://
 
 https://www.youtube.com/watch?v=1GiexIP3Y6A
 
-[![video de spersonnages](![image](https://user-images.githubusercontent.com/104496986/169007427-6978e415-a6c2-4a34-826e-aa29efc649fc.png))](https://www.youtube.com/watch?v=1GiexIP3Y6A
+[![video des personnages](https://data.topquizz.com/distant/quizz/big/5/4/7/8/98745_94a5479004.jpg)](https://www.youtube.com/watch?v=1GiexIP3Y6A
 )
 
 
