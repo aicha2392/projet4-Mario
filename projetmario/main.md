@@ -98,9 +98,7 @@ La génération Mario a pratiquement conditionné le monde du jeu vidéo. Le pla
 
 Que ce soit par son graphisme ou son gameplay, la saga Mario a su faire évoluer le monde du jeu vidéo. La plupart des jeux ont su être innovants à leur sortie. La franchise a également su évoluer en proposant des déclinaisons avec le héros à moustache, qui ont toutes connu, et connaissent encore, un grand succès commercial. Mascotte éternelle de Nintendo, Mario n’est pas près de se faire détrôner.
 
-## Docker
 
-Dillinger is very easy to install and deploy in a Docker container.
 
 
 
