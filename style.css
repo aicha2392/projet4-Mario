@@ -6,6 +6,7 @@
 
 body{
 background-image: url("./asset/img/body.png");
+height: 100%;
 
 }
 nav{
@@ -119,7 +120,7 @@ h2{
     background: linear-gradient(-90deg, rgba(108,232,120,1) 0%, rgba(44,255,0,1) 100%);
     height: 7em;
     width: 100%;
-}
+} 
 
 .route{
     background-color: rgba(143, 132, 132, 0.74);
@@ -135,6 +136,43 @@ h2{
     height: 0%;
     top: 50%;
 }
+
+footer{
+    display: flex;
+    justify-items: center;
+    background-color:#e2dfdff9;
+    color: #161313f9;
+    width: 100%;
+    height: 250px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+footer img{
+    width: 25em;
+}
+
+footer a{
+    text-decoration: none;
+    color: rgb(34, 31, 31);
+    font-size: 18px;
+    font-family: 'Press Start 2P', cursive;
+    
+
+
+
+}
+
+.block_left p{
+    /* color:#ffff; */
+    font-size: 18px;
+    padding: 20px;
+    margin: 20px;
+    font-family: 'Press Start 2P', cursive;
+    color: black;
+   
+}
+
 
 
 /* MARIO ANIMATION*/
