@@ -37,7 +37,7 @@ L'univers de Mario s'est progressivement enrichi au fil des jeux, avec l'apparit
 
 -----
 
-Ici ce qui suit [Lien](https://example.com/ "titre de lien optionnel").
+Ici ce qui suit [!Lien](https://example.com/ "titre de lien optionnel")(https://example.com/ "titre de lien optionnel").
 
  ![]()
  ![](image.png)
@@ -107,7 +107,7 @@ Que ce soit par son graphisme ou son gameplay, la saga Mario a su faire évoluer
 
 ## License
 
-copiryght les bads girls
+copyright les bads girls
 
 ##
 ==Léa
