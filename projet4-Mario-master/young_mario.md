@@ -1,4 +1,5 @@
 # Mario à travers les âges...Quand il était jeune 
+
 &nbsp;
 ## _(1986-2006)_
 &nbsp;
@@ -12,7 +13,10 @@ La seule capable de briser le sort est la princesse Toadstool, la fille du roi C
 &nbsp;
 Mario, qui a découvert la tragédie que vivent les habitants du royaume Champignon, décide de sauver la princesse de l'emprise des Koopas et de rétablir l'ordre.
 &nbsp;
-Vous êtes Mario! À vous de sauver les habitants du royaume Champignon de la magie noire des Koopas!
+Vous êtes Mario! À vous de sauver les habitants du royaume Champignon!
+
+
+&nbsp;
 &nbsp;
 ![image de mario bros](https://mario.nintendo.com/static/62f0c8ceb9375b67329afdbceb24d421/a25bf/screen-3.jpg)
 &nbsp;
@@ -25,6 +29,8 @@ Un soir, Mario fit un étrange rêve. Il rêva d’un long, très long escalier 
 Après avoir entendu ces mots, Mario fut ébloui par un vif éclair. Secoué, il perdit l'équilibre et tomba à la reverse. Il se réveilla en sursaut, assis dans son lit. Pour y voir plus clair, il discuta de ce rêve étrange à son frère Luigi, Toad et à la princesse Peach. Ils décidèrent de piqueniquer sur une colline des environs.
 &nbsp;
 Après avoir trouvé un endroit idéal pour s’installer, ils découvrirent une caverne quelques pas plus loin. Après y être entrés, ils virent un escalier dont les marches montaient, montaient, montaient. Exactement comme dans le rêve de Mario! Ils gravirent les marches et trouvèrent la même porte que dans le rêve. Lorsqu’ils l’ouvrirent, Mario et ses amis découvrirent, à leur grande surprise, un monde étonnant s’étaler à leurs pieds.
+
+
 &nbsp;
 ![image de mario bros 2](https://mario.nintendo.com/static/55d121a156a5675a462ddfcac4c5e6d2/a25bf/screen-3.jpg)
 &nbsp;
@@ -41,13 +47,17 @@ Tatanga hypnotisa les peuples des quatre royaumes afin de les contrôler à sa g
 Mario vint à prendre connaissance de ces événements, et commença alors son long voyage pour rétablir la paix vers le royaume Chai où la princesse Daisy était tenue captive.
 &nbsp;
 Mario pourra-t-il vaincre Tatanga, libérer les peuples de son hypnose interstellaire et sauver la princesse Daisy? C’est à vous de jouer. Vas-y Mario!
+
+
 &nbsp;
 ![image de Super Mario Land](https://mario.nintendo.com/static/3fd1a4fbfbfae2b78de8e66b27e797b8/781b9/screen-3.jpg)
 ## Super Mario Bros 3.
 ##### Date de sortie : 12 février 1990
 Plateforme : Nintendo Entertainment System
 &nbsp;
-Le royaume Champignon est devenu un endroit de paisible grâce aux actes de bravoure de Mario et Luigi. Il sert de portail vers le monde Champignon, où tout n’est pas rose. Bowser a lâché ses 7 enfants, fauteurs de trouble notoires, sur le tranquille monde Champignon. Ils ont dérobé les baguettes magiques royales de chaque pays du monde Champignon et les ont utilisées pour transformer chaque souverain en animal. Mario et Luigi doivent retrouver ces baguettes et les arracher des mains des 7 enfants de Bowser afin de rendre leur forme originelle aux souverains. « Au revoir et bonne chance! » disent la princesse et Toad tandis que Luigi et Mario se mettent en route, en direction du monde Champignon.
+Le royaume Champignon est devenu un endroit de paisible grâce aux actes de bravoure de Mario et Luigi. Il sert de portail vers le monde Champignon, où tout n’est pas rose. Bowser a lâché ses 7 enfants, fauteurs de trouble notoires, sur le tranquille monde Champignon. Ils ont dérobé les baguettes magiques royales de chaque pays du monde Champignon et les ont utilisées pour transformer chaque souverain en animal. Mario et Luigi doivent retrouver ces baguettes et les arracher des mains des 7 enfants de Bowser afin de rendre leur forme originelle aux souverains.
+
+
 &nbsp;
 ![image de Super Mario Bros 3](https://mario.nintendo.com/static/ec0a30e730254b3bed7f482bc59820cb/a25bf/screen-1.jpg)
 &nbsp;
@@ -62,6 +72,8 @@ Mais peu après leur arrivée sur l’île, la princesse Peach disparaît soudai
 Qu’est-ce que tout cela veut dire? De toute évidence, Bowser n’a pas retenu la leçon, et il semble bien que ses serviteurs aient encore kidnappé la princesse Peach.
 &nbsp;
 Mario et Luigi se lancent dans une nouvelle aventure pour sauver les amis de Yoshi et la princesse Peach!
+
+
 &nbsp;
 ![image de Super Mario World](https://mario.nintendo.com/static/81b5b23a6a32d75f239c22deee9c83a7/a25bf/screen-3.jpg)
 &nbsp;
@@ -121,5 +133,7 @@ Mario, accusé à tort, promet de nettoyer l’île, mais… comment faire?
 Soyez tranquilles! J.E.T., la dernière invention du professeur K. Tastroff, et là pour aider Mario à tout nettoyer sur l’île, affronter les méchants, et prêter main-forte dans toutes sortes de situations difficiles.
 
 Mario peut-il arriver à nettoyer l’île, capturer le méchant et prouver son innocence? Il est temps de lancer une autre aventure Mario!
+
+
 ![image de Super Mario Sunshine](https://mario.nintendo.com/static/fe7b8e7d987c0bcd0efaf2b84f3c0d38/a25bf/screen-3.jpg)
 &nbsp;
