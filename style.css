@@ -152,26 +152,48 @@ footer img{
     width: 25em;
 }
 
-footer a{
+/* footer a{
     text-decoration: none;
     color: rgb(34, 31, 31);
     font-size: 18px;
     font-family: 'Press Start 2P', cursive;
+} */
+
+ul li button{
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    padding: 10px;
+    margin: 5px;
+    border-color: rgba(128, 115, 113, 0.774);
+    box-shadow:  3px 4px 3px rgba(189, 167, 167, 0.795);
+    font-family: 'Press Start 2P', cursive;
+    cursor: pointer;
+   
+
     
-
-
-
 }
+.p1_footer {
 
-.block_left p{
-    /* color:#ffff; */
     font-size: 18px;
     padding: 20px;
     margin: 20px;
     font-family: 'Press Start 2P', cursive;
     color: black;
-   
+  
 }
+
+.p2_footer{
+    font-size: 10px;
+    padding: 20px;
+    margin: 20px;
+    font-family: 'Press Start 2P', cursive;
+    color: black;
+    
+
+}
+
+
 
 
 
