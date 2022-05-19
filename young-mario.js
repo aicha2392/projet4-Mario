@@ -11,7 +11,7 @@ function init() {
 
 function hashChange() {
 
-    fileName = location.hash ? location.hash.split( '#' )[1] : 'index.md'
+    fileName = location.hash ? location.hash.split( '#' )[1] : 'young-mario.md'
 
     document.title = document.title ? document.title : fileName
 
